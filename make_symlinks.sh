@@ -1,6 +1,6 @@
 #!/bin/bash
 ############################
-# install.sh
+# make_symlinks.sh
 # This script creates symlinks from the home directory to any desired dotfiles in ~/dotfiles
 ############################
 
