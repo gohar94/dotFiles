@@ -1,2 +1,2 @@
 # dotfiles
-Contains my custom dot files and configs.
+Contains my custom dotfiles and configs.
