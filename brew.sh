@@ -1,4 +1,8 @@
 #!/bin/bash
+############################
+# brew.sh
+# This script installs some important packages/tools using brew on OSX
+############################
 
 # Install command-line tools using Homebrew
 
