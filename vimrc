@@ -1,6 +1,6 @@
 execute pathogen#infect()
 colorschem badwolf         " aweesome colorscheme
-" filetype plugin on      " enable loading of filetype specific plugins like csv.vim
+filetype plugin on      " enable loading of filetype specific plugins like csv.vim
 syntax enable           " enable syntax processing
 set tabstop=4       " number of visual spaces per TAB
 set softtabstop=4   " number of spaces in tab when editing
