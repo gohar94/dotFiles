@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/goharirfan/dotfiles'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/core'
+let g:netrw_dirhist_2='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices'
+let g:netrw_dirhist_3='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
