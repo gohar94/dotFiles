@@ -29,9 +29,6 @@ nnoremap gV `[v`]
 
 let mapleader=","       " leader is comma
 
-" open ag.vim
-nnoremap <leader>a :Ag
-
 " jk is escape
 inoremap jk <esc>
 
