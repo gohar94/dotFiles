@@ -1,10 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/core'
-let g:netrw_dirhist_2='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices'
-let g:netrw_dirhist_3='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
-let g:netrw_dirhist_4='/Users/goharirfan/Desktop/devices/lib/parser/src/main/java/veriflow/parser'
-let g:netrw_dirhist_5='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main'
-let g:netrw_dirhist_6='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java'
-let g:netrw_dirhist_7='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow'
-let g:netrw_dirhist_8='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/test/java'
+let g:netrw_dirhist_2='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'

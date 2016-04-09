@@ -16,3 +16,4 @@ alias vd='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ System
 alias pg='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ Systems/veriflow-hwtester'
 alias ws='sudo /Applications/Wireshark.app/Contents/MacOS/Wireshark'
 alias gns='sudo /Applications/GNS3.app/Contents/MacOS/gns3'
+alias prs='cd /Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
