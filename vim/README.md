@@ -22,7 +22,7 @@ D = remove remaining line
 v to select within line char by char
 V to select blocks of lines
 
-> to indent
+\> to indent
 2 > to indent twice
 5 > to indent five times 
 ... so on
