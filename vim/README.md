@@ -25,8 +25,15 @@ V to select blocks of lines
 > to indent
 2 > to indent twice
 5 > to indent five times 
-...
+... so on
 
 daw : delete a word
 dw : delete word after and including current cursor char
 caw : delete the word under the cursor and put you in insert mode
+
+y to yank
+p to paste
+d to cut
+
+ctrl-u page up
+ctrl-f page down
