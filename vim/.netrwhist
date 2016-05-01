@@ -1,7 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/test/java'
-let g:netrw_dirhist_2='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
-let g:netrw_dirhist_3='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices'
-let g:netrw_dirhist_4='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
-let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/.git'
+let g:netrw_dirhist_2='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices'
+let g:netrw_dirhist_3='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/main/java/veriflow/parser'
