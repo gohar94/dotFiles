@@ -42,9 +42,3 @@ nnoremap <leader>u :GundoToggle<CR>
 
 " for YCM
 let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py"
-
-" for Swift files
-NeoBundle 'kballard/vim-swift', {
-        \ 'filetypes': 'swift',
-        \ 'unite_sources': ['swift/device', 'swift/developer_dir']
-        \}
