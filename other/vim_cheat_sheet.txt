@@ -1,0 +1,55 @@
+my vim cheat sheet
+
+gd will take you to the local declaration
+gD global declaration
+
+/ in normal mode to find
+:vs <filename> for vertical split 
+vim -t <tag> to open vim on tag
+
+ctrl-] to go to function/variable definition(s) using ctags
+
+ctrl-o takes back to previous location 
+
+“*y = copy across vim instances and global mac clipboad
+“*p = paste (same as above)
+
+dkkp = move line up
+dp = move line down
+
+D = remove remaining line
+
+v to select within line char by char
+V to select blocks of lines
+
+> to indent
+2 > to indent twice
+5 > to indent five times 
+...
+
+daw : delete a word
+dw : delete word after and including current cursor char
+caw : delete the word under the cursor and put you in insert mode
+
+:%s/foo/bar/gc (without c for no confirmation)
+
+S delete line and begin editing at start of same line 
+O enter insert mode on above line
+C delete from cursor to end of line and begin insert 
+A enter insert mode at the end of the line
+s delete char under cursor and enter insert mode
+a enter insert mode after cursor
+
+
+:e <filename> after turning on vim, edit a file 
+
+W move to next WORD (separated by whitespace)
+w move to next word (separated by anything non alpha numeric)
+B
+b
+
+[n]f<o> move to nth o (inclusive)
+
+* search word under cursor
+
+

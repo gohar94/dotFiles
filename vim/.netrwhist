@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/goharirfan/Desktop/xenmaster'
 let g:netrw_dirhist_2='/Users/goharirfan/Desktop/Migraine'
 let g:netrw_dirhist_3='/Users/goharirfan/Desktop/Migraine/Migraine'
+let g:netrw_dirhist_4='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices'
