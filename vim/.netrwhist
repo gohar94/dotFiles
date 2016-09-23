@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/goharirfan/Desktop/cs425/src/main/java/edu/illinois/cs'
-let g:netrw_dirhist_2='/Users/goharirfan/Desktop/cs425/src/main/java/edu/illinois/cs/cs425'
-let g:netrw_dirhist_3='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 491 - Intro to Competitive Programming'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/goharirfan/Desktop/cs425/src/main/java'
+let g:netrw_dirhist_2='/Users/goharirfan/Desktop/cs425/src/main/java/edu'
+let g:netrw_dirhist_3='/Users/goharirfan/Desktop/cs425/src/main/java/edu/illinois'
+let g:netrw_dirhist_4='/Users/goharirfan/Desktop/cs425/src/main/java/edu/illinois/cs'
+let g:netrw_dirhist_5='/Users/goharirfan/Desktop/cs425/src/main/java/edu/illinois/cs/cs425'
+let g:netrw_dirhist_6='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Veriflow Systems/devices/lib/parser/src/test/java'
+let g:netrw_dirhist_7='/Users/goharirfan/Desktop/cs425/src/test/java/edu/illinois/cs/cs425/testFiles/actualResults'
