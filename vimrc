@@ -43,3 +43,18 @@ nnoremap <leader>u :GundoToggle<CR>
 " for YCM
 let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py"
 nnoremap <leader>jd :YcmCompleter GoTo<CR>
+
+" for navigating tabs
+" Go to tab by number
+noremap <leader>1 1gt
+noremap <leader>2 2gt
+noremap <leader>3 3gt
+noremap <leader>4 4gt
+noremap <leader>5 5gt
+noremap <leader>6 6gt
+noremap <leader>7 7gt
+noremap <leader>8 8gt
+noremap <leader>9 9gt
+noremap <leader>0 :tablast<CR>
+nnoremap <leader>m :tabprevious<CR>
+nnoremap <leader>. :tabnext<CR>
