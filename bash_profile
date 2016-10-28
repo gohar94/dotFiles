@@ -24,3 +24,9 @@ alias sshsc='ssh gohar@128.174.237.59'
 alias vb='sudo /Applications/VirtualBox.app/Contents/MacOS/VirtualBox'
 #alias g++='g++ -std=c++11 -stdlib=libc++'
 alias icpc='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Fall\ 2016/CS\ 491\ -\ Intro\ to\ Competitive\ Algorithmic\ Programming'
+
+# Better "cd.." alias
+function cd_up() {
+    cd $(printf "%0.0s../" $(seq 1 $1));
+}
+alias 'cd..'='cd_up'
