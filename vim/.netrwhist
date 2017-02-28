@@ -1,11 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3/src/main/java/edu/illinois/cs'
-let g:netrw_dirhist_2='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3/src/main/java/edu/illinois/cs/cs425'
-let g:netrw_dirhist_3='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3/src/main/java/edu/illinois/cs'
-let g:netrw_dirhist_4='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3/src/main/java/edu/illinois/cs/cs425'
-let g:netrw_dirhist_5='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3'
-let g:netrw_dirhist_6='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3/src/main/java/edu/illinois/cs/cs425'
-let g:netrw_dirhist_7='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3'
-let g:netrw_dirhist_8='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3/src/main/java/edu/illinois/cs/cs425'
-let g:netrw_dirhist_9='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Fall 2016/CS 425 - Distributed Systems/cs425_MP3'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/goharirfan/Downloads/trafficserver/proxy/config'
+let g:netrw_dirhist_2='/Users/goharirfan/Downloads/trafficserver/example/append-transform'

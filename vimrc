@@ -18,6 +18,11 @@ set incsearch           " search as characters are entered
 set hlsearch            " highlight matches
 set nocompatible
 set backspace=2
+
+" for loading project specific .vimrc
+set exrc
+set secure
+
 " move to beginning/end of line
 noremap B ^
 noremap E $

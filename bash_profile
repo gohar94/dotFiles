@@ -1,18 +1,18 @@
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
-
-eval $(thefuck --alias) 
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-export PATH="/Applications/mongodb/bin":$PATH
 export PATH=$PATH:/opt/local/bin
+export PATH=/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:$PATH
+export EDITOR='subl -w'
+export C_INCLUDE_PATH=/usr/local/Cellar/libiomp/20150701/include/libiomp:$C_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=/usr/local/Cellar/libiomp/20150701/include/libiomp:$CPLUS_INCLUDE_PATH
+export LIBRARY_PATH=/usr/local/Cellar/libiomp/20150701/lib:$LIBRARY_PATH
 
 # Alias
 alias vim='/usr/local/bin/vim'
 alias l='ls -la'
 alias xen='cd /Users/goharirfan/Dropbox/MegaVM_Summer15/xen_source/xen'
-alias vd='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ Systems/devices'
+alias vd='cd /Users/goharirfan/Desktop/devices'
 alias vr='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ Systems/vf_restful_api'
 alias pg='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ Systems/veriflow-hwtester'
 alias ws='sudo /Applications/Wireshark.app/Contents/MacOS/Wireshark'
@@ -30,3 +30,12 @@ function cd_up() {
     cd $(printf "%0.0s../" $(seq 1 $1));
 }
 alias 'cd..'='cd_up'
+#alias python='python3'
+#alias pip='pip3'
+alias sshweb='ssh gic2@gic2.web.engr.illinois.edu'
+
+# added by Anaconda2 4.2.0 installer
+export PATH="//anaconda/bin:$PATH"
+source /Users/goharirfan/Desktop/deep_learning/aws-alias.sh
+
+alias tmux='tmux -2'
