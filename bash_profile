@@ -19,11 +19,13 @@ alias ws='sudo /Applications/Wireshark.app/Contents/MacOS/Wireshark'
 alias gns='sudo /Applications/GNS3.app/Contents/MacOS/gns3'
 alias prs='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ Systems/devices/lib/parser/src/main/java/veriflow/parser'
 alias tst='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Veriflow\ Systems/devices/lib/parser/src/test/java'
-alias sshvf='ssh gohar@htsc2.cs.illinois.edu'
+alias sshvf2='ssh gohar@htsc2.cs.illinois.edu'
 alias sshsc='ssh gohar@128.174.237.59'
+alias sshvf='ssh -i /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/RA\ Work/Veriflow\ VM\ Stuff/veriflow-vm-key.pem ubuntu@10.0.18.13'
 alias vb='sudo /Applications/VirtualBox.app/Contents/MacOS/VirtualBox'
 #alias g++='g++ -std=c++11 -stdlib=libc++'
 alias icpc='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Fall\ 2016/CS\ 491\ -\ Intro\ to\ Competitive\ Algorithmic\ Programming'
+alias ra='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/RA\ Work'
 
 # Better "cd.." alias
 function cd_up() {

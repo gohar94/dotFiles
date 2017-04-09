@@ -1,8 +1,12 @@
 execute pathogen#infect()
-syntax enable           " enable syntax processing
+if !exists("g:syntax_on")
+    syntax enable
+endif
 set background=dark
 let g:solarized_termcolors=256
-colorscheme solarized
+"colorscheme solarized
+colorscheme molokai
+" let g:rehash256 = 1
 filetype plugin on      " enable loading of filetype specific plugins like csv.vim
 set tabstop=4       " number of visual spaces per TAB
 set softtabstop=4   " number of spaces in tab when editing
