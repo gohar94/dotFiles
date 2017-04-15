@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/goharirfan/Desktop/cs484_project/serial_implementation'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Spring 2017/CS508/project/ECE508_Project'
+let g:netrw_dirhist_2='/Users/goharirfan/dotfiles/vim'
+let g:netrw_dirhist_3='/Users/goharirfan/dotfiles/vim/autoload/airline'
+let g:netrw_dirhist_4='/Users/goharirfan/Google Drive/Dropbox Data/UIUC/Spring 2017/CS508/project/ECE508_Project/src'

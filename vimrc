@@ -27,6 +27,11 @@ set backspace=2
 set exrc
 set secure
 
+" for ctrl p plugin
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+set laststatus=2
+
 " move to beginning/end of line
 noremap B ^
 noremap E $

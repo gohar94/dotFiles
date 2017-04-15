@@ -26,6 +26,7 @@ alias vb='sudo /Applications/VirtualBox.app/Contents/MacOS/VirtualBox'
 #alias g++='g++ -std=c++11 -stdlib=libc++'
 alias icpc='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Fall\ 2016/CS\ 491\ -\ Intro\ to\ Competitive\ Algorithmic\ Programming'
 alias ra='cd /Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/RA\ Work'
+alias vr='/Users/goharirfan/Google\ Drive/Dropbox\ Data/UIUC/Spring\ 2017/CS508/project/ECE508_Project'
 
 # Better "cd.." alias
 function cd_up() {
@@ -38,6 +39,6 @@ alias sshweb='ssh gic2@gic2.web.engr.illinois.edu'
 
 # added by Anaconda2 4.2.0 installer
 export PATH="//anaconda/bin:$PATH"
-source /Users/goharirfan/Desktop/deep_learning/aws-alias.sh
+#source /Users/goharirfan/Desktop/deep_learning/aws-alias.sh
 
 alias tmux='tmux -2'
